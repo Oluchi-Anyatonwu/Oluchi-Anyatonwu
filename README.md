@@ -51,6 +51,20 @@ University of Ilorin, Kwara State
 - Assisted lecturers in reviewing student performance
 - Advised students on coursework and research papers
 
+## PROJECTS
+#### - Movie Rental Analysis:
+This portfolio project aims to analyze a movie rental database through SQL queries and present key insights through a comprehensive Power BI report. The analysis covers various business questions to aid decision-making and improve overall business performance.
+
+#### Click [here](https://github.com/Oluchi-Anyatonwu/Movie-Rental-Store-Analysis) to view full project.
+
+![movie rental 2](https://github.com/Oluchi-Anyatonwu/Oluchi-Anyatonwu/assets/61971994/e5795e1a-bedc-4c14-993c-96126b587676)
+
+#### - Global Heights Analysis:
+The Global Heights Analysis project aimed to provide a comprehensive understanding of height trends worldwide using a rich dataset encompassing sex, year, age group, mean height, uncertainty intervals, and standard errors. The primary goal was to uncover insights into temporal trends, sexual dimorphism, age-related patterns, and other factors influencing mean heights across different demographics.
+
+#### Click [here](https://github.com/Oluchi-Anyatonwu/Global-heights-analysis) to view full project.
+![GLOBAL HEIGHTS DASHBOARD](https://github.com/Oluchi-Anyatonwu/Oluchi-Anyatonwu/assets/61971994/057080a8-bf7a-4977-9a40-5967fa7d2587)
+
 ## VOLUNTEER EXPERIENCE
 ### SDGs Volunteer 
 World Largest Lesson
