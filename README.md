@@ -4,7 +4,7 @@
 ### BSc, Economics and Development Studies 
 2014 - 2018
 Federal University Otuoke
-### Relevant Coursework: Statistics, Econometrics, Research Methods, Microeconomics, Macroeconomics
+#### Relevant Coursework: Statistics, Econometrics, Research Methods, Microeconomics, Macroeconomics
 #### Grade: First class (4.6 out of 5.0 CGPA)
 
 ## WORK EXPERIENCE
